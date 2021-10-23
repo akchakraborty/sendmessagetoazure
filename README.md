@@ -1,1 +1,1 @@
-# sendmessagetoazure
+# IbmmqtoAzure
